@@ -1,4 +1,4 @@
-Music Streaming API
+# Music Streaming API
 
 
 This API is built for the BeatStreamFrontend.
